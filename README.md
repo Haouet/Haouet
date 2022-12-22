@@ -6,8 +6,8 @@
 Workshops: <br/>
 <ul>
   <li>
-Node JS, ExpressJS, MongoDB: <a href="https://github.com/Haouet/ecomerce-api">API E-comerce Backend </a></li>
+Node JS, ExpressJS, MongoDB : <a href="https://github.com/Haouet/ecomerce-api">API E-comerce Backend </a></li>
   <li> React JS, Redux Toolkit : <a href="https://github.com/Haouet/Projet-react-node">E-commerce Frontend</a>
   </li>
-  <li>Fetch API Redux-Toolkit <a href="https://github.com/Haouet/fetch-API-Redux-Toolkit"> GET Products - POST Products </a></li>
+  <li>Fetch API Redux-Toolkit : <a href="https://github.com/Haouet/fetch-API-Redux-Toolkit"> GET Products - POST Products </a></li>
 </ul>
