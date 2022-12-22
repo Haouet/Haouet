@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haouet
-- 👀 i'm interested in in the challenge
+- 👀 i'm interested in the challenge
 - 🌱 I’m currently working on web development technologies like JavaScript,NodeJS, ReactJS, PHP etc
 - 💞️ Goals: Learn more technologies - Learning to become a full-stack developer....
 <br/>
