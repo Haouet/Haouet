@@ -9,7 +9,7 @@ Workshops: <br/>
   <li> React JS, Redux Toolkit : <a href="https://github.com/Haouet/Projet-react-node">E-commerce Frontend</a>
   </li>
   <li>Fetch API Redux-Toolkit : <a href="https://github.com/Haouet/fetch-API-Redux-Toolkit"> GET Products - POST Products </a></li>
-  <li>Convert HTML/CSS template to reactjs : <a href="https://github.com/Haouet/Convert-html-template-to-reactjs-"> Reactjs </a></li>
+  <li>Convert HTML/CSS template to reactjs : <a href="https://github.com/Haouet/Convert-html-template-to-reactjs"> Reactjs </a></li>
 </ul>
 
 
