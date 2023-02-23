@@ -6,7 +6,7 @@
 Workshops: <br/>
 <ul>
   <li> Node JS, ExpressJS, MongoDB : <a href="https://github.com/Haouet/ecomerce-api">API E-comerce Backend </a></li>
-  <li> React JS, Redux Toolkit : <a href="https://github.com/Haouet/Projet-react-node">E-commerce Frontend</a>
+  <li> MongoDB, Express, React, Node. MERN: <a href="https://github.com/Haouet/Projet-react-node">E-commerce Frontend</a> 
   </li>
     <li>Convert HTML/CSS template to reactjs : <a href="https://github.com/Haouet/Convert-html-template-to-reactjs"> Reactjs </a></li>
 </ul>
